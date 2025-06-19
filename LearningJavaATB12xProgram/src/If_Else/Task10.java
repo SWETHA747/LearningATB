@@ -10,7 +10,7 @@ public class Task10 {
 		System.out.println("Enter the marks");
 		int marks = sc.nextInt();
 		
-		if(marks>=0 && marks<=100)
+		if(marks>0 && marks<=100)
 		{
 			if(marks>=90)
 			{
