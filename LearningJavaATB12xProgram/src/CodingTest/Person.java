@@ -12,7 +12,7 @@ public class Person {
 	}
 
 	public void displayDetails() {
-		System.out.println("Name: " + name + " Age: " + age);
+		System.out.print(" Name: " + name + "," +" Age: " + age);
 	}
 
 	public static void main(String[] args) {
