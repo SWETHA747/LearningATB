@@ -12,7 +12,7 @@ public class Coding4 {
 		
 		System.out.println("Post-increment : " + i++);
 		
-		i =6;
+		i = 6;
 		
 		System.out.println("Pre-decrement : " + --i);
 		
